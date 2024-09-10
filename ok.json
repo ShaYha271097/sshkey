@@ -1,1 +1,8 @@
 "qq"
+
+
+git config --global user.name "MrTonyQ"
+git config --global user.email "shayha271098@gmail.com" 
+git config --global user.username "MrTonyQ"
+git config --global credentials.username "MrTonyQ"
+git config --global credential.username "MrTonyQ"
